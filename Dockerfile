@@ -8,6 +8,7 @@ RUN apt-get update && apt-get install -y \
     ruby \
     ruby-dev \
     build-essential \
+    ant-contrib \
     sudo \
     openssh-client \
     software-properties-common \
